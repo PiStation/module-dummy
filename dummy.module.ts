@@ -1,4 +1,4 @@
-import * as PiStation from "../../node_modules/pistation-definitions/PiStation.ts";
+import * as PiStation from "../../node_modules/pistation-definitions/PiStation";
 import {Observable} from 'rxjs/Rx';
 import {Module} from "../../app/module";
 import {Server} from "../../app/server";
